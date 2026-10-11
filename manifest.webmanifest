@@ -1,10 +1,10 @@
 {
-  "name": "Dreamy Dawn",
-  "short_name": "Dreamy Dawn",
+  "name": "Linkbox",
+  "short_name": "Linkbox",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#FFF8E8",
+  "background_color": "#FFF8FA",
   "theme_color": "#FF8FAB",
   "icons": [
     {
